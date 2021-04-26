@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\AMAZON\Downloads\Sudoku-20210414T201057Z-001\Sudoku\out\artifacts\Sudoku_jar\Sudoku.jar</jar>
+  <outfile>C:\Users\AMAZON\OneDrive\Desktop\Sudoku.exe</outfile>
+  <errTitle>You need JAVA to run this program</errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\AMAZON\Downloads\pastime.ico</icon>
+  <singleInstance>
+    <mutexName>SudokuGame</mutexName>
+    <windowTitle>Sudoku Game</windowTitle>
+  </singleInstance>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.8.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.0.0</fileVersion>
+    <txtFileVersion>1.0.0.0</txtFileVersion>
+    <fileDescription>Sudoku Game</fileDescription>
+    <copyright>MC</copyright>
+    <productVersion>1.0.0.0</productVersion>
+    <txtProductVersion>1.0.0.0</txtProductVersion>
+    <productName>SudokuGame</productName>
+    <companyName>Zuba.co</companyName>
+    <internalName>SudokuGame</internalName>
+    <originalFilename>SudokuGame.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>ENGLISH_US</language>
+  </versionInfo>
+</launch4jConfig>
